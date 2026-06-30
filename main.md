@@ -95,6 +95,6 @@ This document does not claim to have discovered a new force or particle. It arti
 The Law of Equilibrium is the recognition that reality, as we can know it, is structured by boundaries. Systems that respect those boundaries endure and can be studied. Systems that cross them collapse, and their collapse takes with them the frameworks that attempted to describe them.
 
 **Final Statement:**  
-> *“If your theory contradicts established physical models, those models may need revision. But if your theory violates the Law of Equilibrium, it cannot even be formulated without destroying the logic and knowledge that would be needed to assess it.”*
+> *“If your theory contradicts established physical models, those models may need revision. But if your theory violates the Law of Equilibrium, it cannot even be formulated without destroying the logic and knowledge that would be needed to assess it”*
 
 ---
